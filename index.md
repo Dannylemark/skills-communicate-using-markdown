@@ -15,3 +15,7 @@ Cambié tamaños de encabezados con el símbolo # para saber cuál es el más ap
 ``` python3
 print("Hello world!") 
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
